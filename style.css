@@ -42,8 +42,8 @@ li {
 
 input {
   all: unset;
-  /* box-sizing: border-box;
-  border: 1px solid #ccc;
+  box-sizing: border-box;
+  /* border: 1px solid #ccc;
   padding: 10px;
   border-radius: 5px;
   width: 200px; */

@@ -39,3 +39,12 @@ li {
     border-radius: 20px;
     border: 2px white solid;
 }
+
+input {
+  all: unset;
+  /* box-sizing: border-box;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  width: 200px; */
+}

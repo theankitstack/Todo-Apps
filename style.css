@@ -39,6 +39,9 @@ li {
     border-radius: 20px;
     border: 2px white solid;
 }
+#task-btn:hover {
+    background-color: green;
+}
 
 input {
   all: unset;

@@ -41,6 +41,8 @@ li {
 }
 #task-btn:hover {
     background-color: green;
+    cursor: pointer;
+    
 }
 
 input {

@@ -1,7 +1,7 @@
 # TODO APPLICATIION 
 
-this is a todo appa mainly this app using daily task add and than all 
-task flow and when task are completed then trick the untrick box 
+this is a todo apps mainly this app using daily task add and than all 
+task flow and when task are completed then delete your task.  
 
 this cycle countinue daily routing 
 

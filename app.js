@@ -19,7 +19,6 @@ ul.addEventListener("click" , function(event) {
    if (event.target.nodeName == "BUTTON") {
     let listItem = event.target.parentElement;
     listItem.remove();
-    console.log("deteled");
    }
 });
 

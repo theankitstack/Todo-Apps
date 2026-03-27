@@ -5,6 +5,7 @@ let inp = document.querySelector("input");
 btn.addEventListener("click" , function() {
     let item = document.createElement("li");
     item.innerText = inp.value;
+    item.classList.add("list-item");
 
     let detBtn = document.createElement("button");
     detBtn.innerText = "detete";

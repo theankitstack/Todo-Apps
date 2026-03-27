@@ -34,7 +34,7 @@ li {
 #task-btn {
     background-color: orange;
     color: white;
-    height: 2.5rem;
+    height: 2.4rem;
     width: 6rem;
     border-radius: 20px;
     border: 2px white solid;
@@ -42,7 +42,6 @@ li {
 #task-btn:hover {
     background-color: green;
     cursor: pointer;
-    
 }
 
 input {

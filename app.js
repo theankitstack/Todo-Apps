@@ -6,7 +6,6 @@ btn.addEventListener("click" , function() {
     let item = document.createElement("li");
     item.innerText = inp.value;
     item.classList.add("list-item");
-    btn.style.backgroundColor = "green"
 
     let detBtn = document.createElement("button");
     detBtn.innerText = "detete";

@@ -40,8 +40,10 @@ li {
     border: 2px white solid;
 }
 #task-btn:hover {
-    background-color: green;
     cursor: pointer;
+}
+#task-btn:active {
+    background-color: green;
 }
 
 input {

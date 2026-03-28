@@ -30,6 +30,7 @@ li {
 .delete {
     margin-left: 1rem;
     border-radius: 15px;
+    border: 2px white solid;
 }
 
 #task-btn {

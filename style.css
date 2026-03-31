@@ -30,6 +30,7 @@ h1 {
 li {
     color: white;
     font-weight: 700;
+    margin-left: 20px;
 }
 
 .delete {

@@ -23,6 +23,10 @@ h1 {
     font-size: 2.5rem;
 }
 
+.check {
+    display: flex;
+}
+
 li {
     color: white;
     font-weight: 700;
@@ -49,7 +53,7 @@ li {
     background-color: green;
 }
 
-input {
+.inp-text {
   all: unset;
   box-sizing: border-box;
   border: 1px solid #ccc;

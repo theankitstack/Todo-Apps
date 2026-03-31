@@ -1,6 +1,6 @@
 let btn = document.querySelector("button");
 let ul = document.querySelector("ul");
-let inp = document.querySelector("input");
+let inp = document.querySelector(".inp-text");
 
 
 btn.addEventListener("click" , function() {
@@ -18,8 +18,9 @@ btn.addEventListener("click" , function() {
 
     item.appendChild(detBtn);
     ul.appendChild(item);
-    ul.appendChild(checkBtn);
+    inp.appendChild(checkBtn);
     inp.value = ""
+    checkBtn.value = ""
 });
 
 ul.addEventListener("click" , function(event) {

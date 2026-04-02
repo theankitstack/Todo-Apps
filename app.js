@@ -18,9 +18,9 @@ btn.addEventListener("click" , function() {
 
     item.appendChild(detBtn);
     ul.appendChild(item);
-    inp.appendChild(checkBtn);
-    inp.value = ""
-    checkBtn.value = ""
+    // item.appendChild(checkBtn);
+    // inp.value = ""
+    // checkBtn.value = ""
 });
 
 ul.addEventListener("click" , function(event) {

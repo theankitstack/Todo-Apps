@@ -25,6 +25,8 @@ h1 {
 
 .check {
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 li {

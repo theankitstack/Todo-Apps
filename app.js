@@ -2,7 +2,6 @@ let btn = document.querySelector("button");
 let ul = document.querySelector("ul");
 let inp = document.querySelector(".inp-text");
 
-
 btn.addEventListener("click" , function() {
     let checkBtn = document.createElement("input");
     checkBtn.type = "checkbox";
@@ -15,14 +14,14 @@ btn.addEventListener("click" , function() {
     let detBtn = document.createElement("button");
     detBtn.innerText = "detete";
     detBtn.classList.add("delete");
-
+ 
     item.prepend(checkBtn);
 
     item.appendChild(detBtn);
 
     ul.appendChild(item);
 
-    checkBtn.value = ""
+    inp.value = "";
 });
 
 ul.addEventListener("click" , function(event) {

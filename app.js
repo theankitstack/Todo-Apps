@@ -16,7 +16,6 @@ btn.addEventListener("click" , function() {
     detBtn.innerText = "detete";
     detBtn.classList.add("delete");
 
-
     item.prepend(checkBtn);
 
     item.appendChild(detBtn);

@@ -32,7 +32,13 @@ h1 {
 li {
     color: white;
     font-weight: 700;
-    margin-left: 20px;
+    padding: 8px;
+    /* margin-left: 20px; */
+}
+
+ul{
+    list-style: none;
+    padding: 0;
 }
 
 .delete {
@@ -70,8 +76,5 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 5px;
-    padding: 5px;
+    padding: 8px;
 }
-
-

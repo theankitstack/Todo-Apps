@@ -19,6 +19,7 @@ btn.addEventListener("click" , function() {
 
     item.appendChild(detBtn);
 
+
     ul.appendChild(item);
 
     inp.value = "";

@@ -44,6 +44,5 @@ The main objective of this project is to practice core JavaScript concepts such 
 2. Open the folder in VS Code
 3. Run `index.html` in your browser
 
----
 
 ⚠️ Note: This project is created for learning purposes and demonstrates basic task management functionality.
